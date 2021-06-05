@@ -2,10 +2,10 @@
   link: /pricing/
   new_window: false
   highlight: false
-- name: Blog
-  link: /blog/
-  new_window: false
-  highlight: false
+# - name: Blog
+#   link: /blog/
+#   new_window: false
+#   highlight: false
 - name: About
   link: /about/
   new_window: false
@@ -15,10 +15,10 @@
   new_window: false
   highlight: false
 - name: Login
-  link: /
+  link: https://insights.nudgeloop.com
   new_window: true
   highlight: false
 - name: Sign Up
-  link: /
-  new_window: true
+  link: /get-started/
+  new_window: false
   highlight: true
