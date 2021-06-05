@@ -4,17 +4,17 @@ heading: Get in touch today
 description: We're here to help you deliver high-quality customer experience
 
 map:
-  latitude: -45.8787605
-  longitude: 170.5027976
-  address: "1 This Road, India"
-  zoom: 13
+  latitude: 19.0760
+  longitude: 72.8777
+  address: "Vikhroli, Mumbai, India"
+  zoom: 10
 ---
-<div class="map" id="map"></div>
+<!-- <div class="map" id="map"></div> -->
 
 
 <div class="contact-box">
 	<form action="{{ site.baseurl }}/contact-success/" method="post" class="contact-form">
-		<input type="hidden" name="_to" value="support@example.com" />
+		<input type="hidden" name="_to" value="support@nudgeloop.com" />
 		<input type="text" name="_gotcha" style="display: none;">
 
 		<label for="name">Full Name</label>
@@ -30,11 +30,11 @@ map:
 	</form>
 
 	<div class="contact-details">
-		<h3 class="editable">Address</h3>
-		<address><a target="_blank" href="https://www.google.com/maps/place/{{ page.map.address | url_encode }}">{{ page.map.address | replace: ", ", ", <br>" }}</a></address>
+		<!-- <h3 class="editable">Address</h3>
+		<address><a target="_blank" href="https://www.google.com/maps/place/{{ page.map.address | url_encode }}">{{ page.map.address | replace: ", ", ", <br>" }}</a></address> -->
 
 		<h3 class="editable">Email</h3>
-		<p><a href="mailto:support@example.com">support@example.com</a></p>
+		<p><a href="mailto:support@nudgeloop.com">support@nudgeloop.com</a></p>
 	</div>
 </div>
 
