@@ -10,7 +10,7 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Next generation Customer Experience tools
+description: Next generation Customer Experience tools with actionable insights
 author:
   name:
   email:
@@ -87,7 +87,6 @@ exclude:
   - LICENCE
 
 # -----------
-# CloudCannon
 
 social_icons:
   - Facebook
