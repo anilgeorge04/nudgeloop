@@ -11,8 +11,8 @@
   new_window: false
   highlight: false
 - name: Contact
-  link: /contact/
-  new_window: false
+  link: https://us6.list-manage.com/contact-form?u=033f624f6b65c45ba73c97d0f&form_id=f043baaccbe46af35b2851661b1fd02d
+  new_window: true
   highlight: false
 - name: Login
   link: https://insights.nudgeloop.com
