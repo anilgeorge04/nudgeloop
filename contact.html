@@ -2,27 +2,27 @@
 title: Contact
 heading: Get in touch today
 description: We're here to help you deliver high-quality customer experience
+formspark_form_id: 846970ca3f77ef1131dd954cfaf80552 
 ---
 
 <div class="contact-box">
-	<form action="{{ site.baseurl }}/contact-success/" method="post" class="contact-form">
+	<!-- <form action="{{ site.baseurl }}/contact-success/" method="post" class="contact-form"> -->
+	<form action="https://submit-form.com/{{ page.formspark_form_id }}" method="post" class="contact-form" target="_blank">
 		<input type="hidden" name="_to" value="support@nudgeloop.com" />
 		<input type="text" name="_gotcha" style="display: none;">
 
 		<label for="name">Full Name</label>
-		<input type="text" name="name" id="name" placeholder="Enter your name..." />
+		<input type="text" name="name" id="name" placeholder="What should we call you?" />
 
 		<label for="email">Email Address</label>
-		<input type="email" name="email" id="email" placeholder="Enter your email..." required />
+		<input type="email" name="email" id="email" placeholder="How can we reach you?" required />
+
+		<!-- <label for="website">Website URL</label>
+		<input type="text" name="website" id="website" placeholder="companyname.com" /> -->
 
 		<label for="message">Message</label>
-		<textarea name="message" id="message" placeholder="Enter your message..."></textarea>
+		<textarea name="message" id="message" placeholder="Tell us how Nudge Loop can help you"></textarea>
 
 		<input type="submit" value="Send Message" />
 	</form>
-
-	<div class="contact-details">
-		<h3 class="editable">Email</h3>
-		<p><a href="mailto:support@nudgeloop.com">support@nudgeloop.com</a></p>
-	</div>
 </div>
