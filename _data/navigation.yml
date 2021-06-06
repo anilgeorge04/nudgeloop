@@ -15,7 +15,8 @@
   new_window: true
   highlight: false
 - name: Login
-  link: https://insights.nudgeloop.com
+  link: /
+  # link: https://insights.nudgeloop.com
   new_window: true
   highlight: false
 - name: Sign Up
