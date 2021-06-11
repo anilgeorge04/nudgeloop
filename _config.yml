@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Nudge Loop
-url: "https://minimalcave.com/nudgeloop-jekyll"
+title: Nudgeloop
+url: "https://nudgeloop.com"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -16,7 +16,7 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Nudge Loop
+  name: Nudgeloop
   links:
     - https://nudgeloop.com
 
