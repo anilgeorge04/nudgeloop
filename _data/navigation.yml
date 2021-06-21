@@ -1,5 +1,5 @@
-- name: Pricing
-  link: /pricing/
+- name: Solutions
+  link: /solutions/
   new_window: false
   highlight: false
 # - name: Blog
@@ -10,14 +10,14 @@
 #   link: /about/
   new_window: false
   highlight: false
-- name: Contact
-  link: https://us6.list-manage.com/contact-form?u=033f624f6b65c45ba73c97d0f&form_id=f043baaccbe46af35b2851661b1fd02d
-  new_window: true
-  highlight: false
+# - name: Contact
+#   link: https://us6.list-manage.com/contact-form?u=033f624f6b65c45ba73c97d0f&form_id=f043baaccbe46af35b2851661b1fd02d
+#   new_window: true
+#   highlight: false
 # - name: Login
 #   link: https://insights.nudgeloop.com
-  new_window: true
-  highlight: false
+  # new_window: true
+  # highlight: false
 - name: Sign Up
   link: /get-started/
   new_window: false
