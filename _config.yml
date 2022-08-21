@@ -2,7 +2,7 @@
 # Site
 
 title: Nudgeloop
-url: "https://nudgeloop.com"
+url: "https://anilgeorge.blog/nudgeloop"
 baseurl:
 google_analytics_key: "G-TCZD149HX7"
 google_maps_javascript_api_key:
@@ -18,7 +18,6 @@ author:
 social:
   name: Nudgeloop
   links:
-    - https://nudgeloop.com
 
 # -----
 # Build
